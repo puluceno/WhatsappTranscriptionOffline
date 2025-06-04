@@ -122,7 +122,7 @@ Docker provides an isolated environment that ensures all dependencies are correc
    node index.js
    ```
 
-3. **Link Your WhatsApp Account**:
+2. **Link Your WhatsApp Account**:
    - The console will display a QR code
    - Open WhatsApp on your mobile device
    - Go to Settings → Linked Devices
